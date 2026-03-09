@@ -1,117 +1,75 @@
-# Hi, I'm Zaira Shahid 👋
-
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/Let's_Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zaira-shahid-)
-[![Email](https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zairashahid370@email.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Zaira-Shahid)
+# Zaira Shahid
 
-</div>
+**AI/ML Developer · AI Automation · Frontend Developer**
 
-<br>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zaira-shahid-)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:zairashahid370@email.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Zaira-Shahid)
 
-<div align="center">
-
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF88&center=true&vCenter=true&width=650&lines=AI+%2F+ML+Developer+%F0%9F%A4%96;Computer+Vision+Engineer+%F0%9F%91%81%EF%B8%8F;AI+Automation+Developer+%E2%9A%A1;Frontend+Developer+%F0%9F%8E%A8;Building+AI+that+saves+lives+%F0%9F%9A%80)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=AAAAAA&center=true&vCenter=true&width=550&lines=Building+AI+that+solves+real+problems;Computer+Vision+%7C+Machine+Learning+%7C+NLP;Faisalabad%2C+Pakistan+%F0%9F%87%B5%F0%9F%87%B0)
 
 </div>
 
 ---
 
-## 👩‍💻 About Me
+## About Me
 
 ```python
 zaira = {
-    "name"       : "Zaira Shahid",
-    "location"   : "Faisalabad, Pakistan 🇵🇰",
     "education"  : "BS Software Engineering @ NUML University (2023 → 2027)",
     "experience" : "AI Automation Developer @ Sovanza",
-    "focus"      : ["Machine Learning", "Computer Vision", "AI Automation"],
-    "goal"       : "Building AI that solves real-world problems",
-    "fun_fact"   : "Built a drowsiness detector before finishing my degree 😎"
+    "skills"     : ["Machine Learning", "Computer Vision", "AI Automation", "Frontend"],
+    "goal"       : "Building AI solutions that make a real difference"
 }
 ```
 
 ---
 
-## 🛠️ Tech Stack
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-</div>
-
----
-
-## 🚀 Featured Projects
+## 🚀 Projects
 
 ### 😴 Driver Drowsiness Detection System
-> Real-time AI road safety system — because 50,000+ accidents happen in Pakistan every year due to driver fatigue.
+Real-time road safety system — detecting driver fatigue via webcam with zero expensive hardware.
 
-- 🎯 Detects drowsiness via **webcam only** — no expensive hardware needed
-- 📊 Smart **blink-rate analysis** — triggers alarm at 25+ bpm or 2+ sec eye closure
-- 🖥️ Professional dark UI with live stats — packaged as standalone **.exe**
-- 🔧 **Stack:** Python · OpenCV · Haar Cascade · Tkinter · PIL
+- **Blink-rate analysis** — alarm triggers at 25+ bpm or 2+ sec eye closure
+- Dark UI with live stats · packaged as standalone **.exe**
+- `Python` `OpenCV` `Haar Cascade` `Tkinter`
 
-[![View Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Zaira-Shahid/drowsiness-detector-)
+[![View](https://img.shields.io/badge/View_Project-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Zaira-Shahid/drowsiness-detector-)
 
 ---
 
 ### 📧 Spam Email Classifier
-> NLP-based ML model that classifies emails as spam or ham with 97.85% accuracy.
+NLP-based classifier with **97.85% accuracy** on 5,572 real emails.
 
-- 🎯 **97.85% accuracy** on 5,572 real emails
-- 🔁 Full ML pipeline — preprocessing · CountVectorizer · Naive Bayes
-- 📦 **Stack:** Python · Scikit-learn · Pandas · NumPy · Matplotlib · NLTK
+- Full ML pipeline — preprocessing · CountVectorizer · Naive Bayes
+- `Python` `Scikit-learn` `Pandas` `NumPy` `NLTK`
 
-[![View Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Zaira-Shahid/spam-email-classifier)
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Zaira's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Zaira-Shahid&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00ff88&text_color=ffffff)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Zaira-Shahid&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=ffffff)
-
-</div>
+[![View](https://img.shields.io/badge/View_Project-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Zaira-Shahid/spam-email-classifier)
 
 ---
 
-## 📬 Let's Connect!
+## 🛠️ Tech Stack
 
-<div align="center">
-
-**I'm open to AI/ML roles, collaborations, and freelance projects!**
-
-<br>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Zaira_Shahid-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zaira-shahid-)
-[![Email](https://img.shields.io/badge/Gmail-zairashahid370-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zairashahid370@email.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Zaira--Shahid-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Zaira-Shahid)
-
-</div>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ---
 
 <div align="center">
 
-*"Building AI solutions that make a real difference — one project at a time."* 🚀
+*Open to AI/ML roles, collaborations & freelance projects*
 
-![Profile Views](https://komarev.com/ghpvc/?username=Zaira-Shahid&color=00ff88&style=flat-square&label=Profile+Views)
+[![LinkedIn](https://img.shields.io/badge/Let's_Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zaira-shahid-)
+
+![Views](https://komarev.com/ghpvc/?username=Zaira-Shahid&color=grey&style=flat-square&label=Profile+Views)
 
 </div>
