@@ -7,8 +7,8 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/zaira-shahid-"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:zairashahid370@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <img src="https://komarev.com/ghpvc/?username=Zaira-Shahid&style=flat-square&color=blueviolet" alt="Profile views"/>
+  <img src="https://img.shields.io/github/followers/Zaira-Shahid?style=flat-square&color=blueviolet" alt="GitHub followers"/>
 </p>
 
 ---
@@ -21,6 +21,9 @@ I work at the intersection of **frontend engineering**, **AI automation**, and *
 - 📍 Based in Faisalabad, Punjab, Pakistan
 - 🟢 Open to opportunities
 - 🔭 Currently focused on AI-powered applications, agentic workflows, and production-ready digital products
+- 🌱 Currently exploring MCP (Model Context Protocol) and multi-agent orchestration
+- 💬 Ask me about React/Next.js, LLM integrations, n8n automation, or RESTful API design
+- ⚡ Fun fact: I've shipped AI chatbots that cut client query handling time by ~30%
 
 ---
 
@@ -103,12 +106,37 @@ I work at the intersection of **frontend engineering**, **AI automation**, and *
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zaira-Shahid&layout=compact&hide_border=true" alt="Top languages"/>
 </p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zaira-Shahid&hide_border=true" alt="GitHub streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Zaira-Shahid&theme=flat&no-frame=true&row=1&column=6" alt="GitHub trophies"/>
+</p>
+
 ---
 
-### Let's Connect
+### Beyond Code
 
-📧 **Email:** [zairashahid370@gmail.com](mailto:zairashahid370@gmail.com)
-💼 **LinkedIn:** [linkedin.com/in/zaira-shahid-](https://www.linkedin.com/in/zaira-shahid-)
-💻 **GitHub:** [github.com/Zaira-Shahid](https://github.com/Zaira-Shahid)
+📚 Continuous learner — always picking up new frameworks, AI tooling, and automation platforms
+🎯 Enjoy turning repetitive, manual business processes into clean automated workflows
+🤝 Comfortable working solo or in small cross-functional teams (2–5 people)
+🌍 Based in Faisalabad, Pakistan — open to remote and international opportunities
+
+---
+
+<h3 align="center">📫 Get In Touch</h3>
+
+<p align="center">
+  <a href="mailto:zairashahid370@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/zaira-shahid-">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
 
 <p align="center"><i>Always open to discussing AI automation, full-stack projects, and interesting collaborations.</i></p>
